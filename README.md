@@ -12,8 +12,6 @@ Promptly demonstrates how to integrate powerful language models into your own pr
 - 🔒 **Secure API handling** using environment variables.  
 - 🛠️ **Easily customizable** for your own datasets or chatbot personality.  
 
-
-
 ---
 
 ## 🛠️ Tech Stack
